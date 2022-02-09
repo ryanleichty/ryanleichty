@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ryanleichty
-- 💻 I’m a designer and frontend developer
-- 🌱 I’m currently learning React, Next.js, and Tailwind CSS
+- Hi 👋, I’m Ryan. I’m a creative who likes working with code.
+- Currently exploring React, Next.js, Tailwind CSS, and full-stack JavaScript development.
 
 <!---
 ryanleichty/ryanleichty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
