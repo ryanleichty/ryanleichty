@@ -1,1 +1,8 @@
-Currently exploring React, Next.js, and Tailwind CSS
+<a href="https://www.ryanleichty.com/">
+  <img
+    alt="Ryan Leichty, designer and coder"
+    src="https://raw.githubusercontent.com/ryanleichty/ryanleichty/main/image.png"
+  />
+</a>
+
+[Learn more about me](https://www.ryanleichty.com/)
